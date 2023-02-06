@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dave Loop</h1>
 <h3 align="center">Passionate about life and Technology, Motivated to learn, improve and develop my skills as a Software Developer. I work well in a team and I feel comfortable to agile methodologies and Scrum. I am persistent and I adapt well to changes. I am looking for projects in which I can find challenges, a team of professionals from whom I can learn as much as possible and grow professionally and as a person.</h3>
-<img align="right" alt="Coding" with="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" with="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidpolsanchez&label=Profile%20views&color=0e75b6&style=flat" alt="davidpolsanchez" /> </p>
 
