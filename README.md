@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Cypress**
+- 🔭 I’m currently working on **REACT**
 
 - 🌱 I’m currently learning **Javascript**
 
 - 👯 I’m looking to collaborate on **REACT**
 
-- 🤝 I’m looking for help with **Lambdatest**
+- 🤝 I’m looking for help with **SPRING FRAMWORK**
 
-- 💬 Ask me about **Selenium, Java**
+- 💬 Ask me about **AUTOMATION, Java**
 
 - 📫 How to reach me **davidpolsanchezmartos@gmail.com**
 
